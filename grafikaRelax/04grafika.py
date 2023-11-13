@@ -11,7 +11,7 @@ t.goto(0, -300)
 t.pendown()
 colors=['AntiqueWhite','Brown', 'Coral','Crimson', 'Darksalmon', 'Goldenrod', 'Ivory', 'Lime']
 t.pencolor(colors[0])
-for j in range(20, 2, -1):
+for j in range(200, 2, -1):
     t.fillcolor(colors[(j+1)%7])
     t.pencolor(colors[j%7])
     t.begin_fill()
