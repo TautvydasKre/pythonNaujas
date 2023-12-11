@@ -1,0 +1,13 @@
+5
+15
+20
+Rezultatas Nr.{i}
+5 + 15 + 20 = 40
+Rezultatas Nr.{i}
+5 + 15 + 20 = 40
+Rezultatas Nr.{i}
+5 + 15 + 20 = 40
+Rezultatas Nr.{i}
+5 + 15 + 20 = 40
+Rezultatas Nr.{i}
+5 + 15 + 20 = 40
